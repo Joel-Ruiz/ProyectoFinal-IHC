@@ -9,7 +9,6 @@
 
 1. Alejandro Novelo Loria
 * ![IMG-20210620-WA0003](https://github.com/Joel-Ruiz/ProyectoFinal-IHC/assets/32398151/ab746a0f-649a-40e4-bec6-1b7195152be9)
-
 2. Luis Alberto Medina Anguas
 *   ![IMG_20230615_183715](https://github.com/Joel-Ruiz/ProyectoFinal-IHC/assets/57609016/d8ade5f2-5165-4e72-bfe5-f33e65d7fbb3)
 3. Erick Gilberto Gómez Manzanero
